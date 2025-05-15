@@ -38,14 +38,14 @@ jobs:
           # - mips_24kc
           # - mips_4kec
           # - mips_mips32
-          # - mipsel_24kc
+          - mipsel_24kc
           # - mipsel_24kc_24kf
           # - mipsel_74kc
           # - mipsel_mips32
           # - powerpc_464fp
           # - powerpc_8548
           # - riscv64_riscv64
-          - x86_64
+          # - x86_64
         tag:
           - openwrt-24.10
 
