@@ -14,7 +14,7 @@ jobs:
       fail-fast: false
       matrix:
         arch:
-          - aarch64_cortex-a53
+          - mipsel_24kc
         tag:
           - openwrt-24.10
 
